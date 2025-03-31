@@ -4,9 +4,9 @@ import { getQuantization, getSize } from "./utils";
 
 export const OWNER = "mlc-ai";
 export const REPO = "web-llm-chat";
-export const WEBLLM_HOME_URL = "https://webllm.mlc.ai";
-export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
-export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
+export const WEBLLM_HOME_URL = "https://scanari.org";
+export const REPO_URL = "https://docs.scanari.org/";
+export const ISSUE_URL = "https://docs.scanari.org";
 
 export enum Path {
   Home = "/",
@@ -59,7 +59,7 @@ export const DEFAULT_INPUT_TEMPLATE = `{{input}}`; // input / time / model / lan
 
 export const DEFAULT_SYSTEM_TEMPLATE = `
 You are an AI large language model assistant trained by {{provider}}.
-You are currently engaging with users on WebLLM Chat, an open-source AI Chatbot UI developed by MLC.ai (Machine Learning Compilation).
+You are currently engaging with users on Scanari AI, an open-source AI Chatbot UI developed by Scanari.
 Model display_name:  {{model}}
 The current date and time is {{time}}.
 Latex inline format: \\(x^2\\) 
