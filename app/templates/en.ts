@@ -18,7 +18,7 @@ export const EN_TEMPLATES: BuiltinTemplate[] = [
     createdAt: 1688899480410,
   },
   {
-    avatar: "1F4CC",
+    avatar: "1f4cc",
     name: "DeFi Analyzer",
     context: [
       {
@@ -34,7 +34,7 @@ export const EN_TEMPLATES: BuiltinTemplate[] = [
     createdAt: 1688899480411,
   },
   {
-    avatar: "1F4C8",
+    avatar: "1f4c8",
     name: "Tokenomics Expert",
     context: [
       {
@@ -50,7 +50,7 @@ export const EN_TEMPLATES: BuiltinTemplate[] = [
     createdAt: 1688899480412,
   },
   {
-    avatar: "1F3AF",
+    avatar: "1f3af",
     name: "Airdrop Hunter",
     context: [
       {
