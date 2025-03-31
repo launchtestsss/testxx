@@ -3,8 +3,8 @@ import { SubmitKey } from "../store/config";
 // if you are adding a new translation, please use PartialLocaleType instead of LocaleType
 
 const en = {
-  Title: "Сortan Chat",
-  Subtitle: "Cortan API",
+  Title: "ScanariBSC",
+  Subtitle: "Private. Fast. Profitable.",
   WIP: "Coming Soon...",
   ChatItem: {
     ChatItemCount: (count: number) => `${count} messages`,
