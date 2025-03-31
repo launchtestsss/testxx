@@ -267,7 +267,7 @@ const en = {
   },
   Store: {
     DefaultTopic: "New Conversation",
-    BotHello: "Hi, I'm Scanari AI, for quick access to my models use Prompts. To customize me use “Settings”.",
+    BotHello: "Hi, I'm Scanari AI, for quick access to my models use “Prompts”. To customize me use “Settings”.",
     Error: "Something went wrong, please try again later.",
     Prompt: {
       History: (content: string) =>
